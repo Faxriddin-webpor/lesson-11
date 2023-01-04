@@ -1,0 +1,117 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  margin: 40px 100px 50px 100px;
+}
+
+.box {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 120px 100px 120px;
+}
+
+.card {
+  width: 300px;
+  text-align: center;
+}
+
+p {
+  color: gray;
+  padding: 50px;
+  font-size: 20px;
+  text-align: center;
+}
+
+h1 {
+  padding: 50px;
+}
+
+.center {
+  display: flex;
+  justify-content: space-between;
+  margin: 0px 600px;
+  margin-bottom: 100px;
+}
+
+b {
+  align-items: center;
+}
+
+h3 {
+  width: 60px;
+  height: 60px;
+  text-align: center;
+  align-items: center;
+  padding-top: 20px;
+}
+
+h3:hover {
+  background-color: black;
+  color: white;
+}
+
+.h3 {
+  width: 60px;
+  height: 60px;
+  background-color: black;
+  color: white;
+  text-align: center;
+  align-items: center;
+}
+
+.h3:hover {
+  background-color: silver;
+  color: black;
+}
+
+hr {
+  margin-bottom: 100px;
+}
+
+.img {
+  text-align: center;
+}
+
+.one {
+  margin-left: 400px;
+}
+
+.a {
+  display: flex;
+  justify-content: space-between;
+}
+
+.v {
+  width: 600px;
+  margin-left: 100px;
+}
+
+.woo {
+  height: 100px;
+  display: flex;
+  justify-content: space-between;
+  padding: 0;
+}
+
+.zero {
+  padding: 0;
+  margin-bottom: 20px;
+}
+
+h2 {
+  text-align: center;
+}
+
+.h33 {
+  text-align: center;
+  width: 200px;
+  margin: auto;
+}
+
+ 

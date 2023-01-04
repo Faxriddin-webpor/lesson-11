@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  color: white;
+  background-color: rgb(2, 103, 2);
+  padding: 50px;
+  text-align: center;
+}
+
+header {
+  background-color: black;
+  padding: 30px;
+}
+
+h3 {
+  margin-right: 40px;
+  color: white;
+  display: inline-block;
+}
+
+h2 {
+  color: green;
+  margin-bottom: 40px;
+}
+
+.card {
+  width: 400px;
+  padding: 50px;
+  text-align: center;
+  display: inline-block;
+}
+
+h4 {
+  word-spacing: 10px;
+}

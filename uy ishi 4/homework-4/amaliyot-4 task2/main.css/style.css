@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  background-color: rgb(69, 69, 255);
+  color: white;
+  padding-top: 50px;
+  padding-bottom: 70px;
+  text-align: center;
+}
+
+h3 {
+  margin: 20px 30px;
+  display: inline-block;
+}
+
+.box {
+  background-color: blue;
+  color: white;
+  text-align: center;
+}
+
+.container {
+  background-color: silver;
+}
+
+p {
+  color: rgb(136, 122, 122);
+}
+
+h2 {
+  margin: 30px 20px;
+}
+
+.card {
+  width: 900px;
+  margin: auto;
+  padding: 25px;
+  background-color: white;
+}

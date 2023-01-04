@@ -1,0 +1,240 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  margin: 70px 200px;
+}
+
+li {
+  display: inline-block;
+  color: gray;
+  text-decoration: none;
+  margin-right: 50px;
+}
+
+a {
+  text-decoration: none;
+}
+
+li:hover {
+  color: black;
+}
+
+li:active {
+  background-color: black;
+  color: white;
+  border: 2px solid gray;
+  border-radius: 15px;
+}
+
+.h1 {
+  font-size: 48px;
+}
+
+.box {
+  display: inline-block;
+}
+
+.first {
+  margin-right: 60px;
+  margin-left: 70px;
+}
+
+.body {
+  display: flex;
+  justify-content: space-between;
+  margin-right: 120px;
+}
+
+.button {
+  font-size: 20px;
+  padding: 20px 40px;
+  background-color: rgb(0, 102, 255);
+  color: white;
+  border-radius: 40px;
+  margin-left: 50px;
+}
+
+.button:hover {
+  background-color: gray;
+  color: black;
+}
+
+.button:active {
+  background-color: rebeccapurple;
+  color: white;
+}
+
+p {
+  font-size: 22px;
+  color: gray;
+}
+
+.title {
+  text-align: center;
+}
+
+.one {
+  padding: 0px 160px;
+}
+
+.box6 {
+  display: inline-block;
+  width: 350px;
+  height: 355px;
+  margin-right: 40px;
+  border-radius: 20px;
+  box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+  padding: 50px;
+}
+
+.seven {
+  margin-left: 40px;
+}
+
+.boxes {
+  display: flex;
+  justify-content: space-between;
+}
+
+.two {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 100px;
+}
+
+.apple {
+  text-decoration: none;
+  color: blue;
+  padding: 15px 50px;
+  border: 3px solid blue;
+  border-radius: 55px;
+}
+
+.applebox {
+  width: 500px;
+  margin-left: 120px;
+}
+
+.applebox2 {
+  margin-right: 120px;
+}
+
+.img {
+  width: 150px;
+  border-radius: 50%;
+  border: 3px solid white;
+}
+
+.boxboss {
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 35px;
+}
+
+.boxbosss {
+  display: flex;
+  justify-content: space-between;
+  padding: 30px;
+  margin-bottom: 50px;
+}
+
+.boss {
+  padding-top: 40px;
+  margin-left: 40px;
+  color: white;
+}
+
+.boxs {
+  text-align: center;
+  background-color: rgb(0, 149, 255);
+  color: white;
+  margin: 270px 240px 40px 240px;
+  border-radius: 25px;
+}
+
+.bosx {
+  width: 420px;
+  height: 120px;
+  color: aliceblue;
+  margin-top: 60px;
+}
+
+.pbox {
+  color: white;
+}
+
+.imgbox {
+  text-align: center;
+  margin-bottom: 222px;
+}
+
+.h {
+  margin-bottom: 100px;
+}
+
+.boxsis {
+  width: 350px;
+  height: 512px;
+  box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+  border-radius: 20px;
+}
+
+.vector {
+  margin-left: 12px;
+}
+
+.vectores {
+  width: 265px;
+  margin-right: 50px;
+  margin-left: 50px;
+}
+
+.boxses {
+  display: flex;
+  justify-content: space-between;
+  margin: 0px 200px;
+  margin-bottom: 70px;
+}
+
+.boxx {
+  text-align: center;
+  margin-bottom: 200px;
+}
+
+.ahreft {
+  padding: 10px 60px;
+  border: 3px solid blue;
+  color: blue;
+  border-radius: 30px;
+}
+
+.container2 {
+  display: flex;
+  justify-content: space-between;
+  padding: 100px 150px;
+  background-color: rgb(0, 119, 255);
+}
+
+.fourone {
+  width: 350px;
+  color: white;
+  margin-right: 100px;
+}
+
+.fourtwo {
+  width: 300px;
+  margin-top: 35px;
+}
+
+li {
+  color: white;
+}
+
+.four {
+  margin-top: 35px;
+}
